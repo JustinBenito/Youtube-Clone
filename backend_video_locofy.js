@@ -1,4 +1,4 @@
-let api_key = "AIzaSyB4X6Wt3VoDyk5j3nQwYFm4vjrVqtYcqkM";
+let api_key = ""; //add your own api key
 let videoID;
 let related;
 
