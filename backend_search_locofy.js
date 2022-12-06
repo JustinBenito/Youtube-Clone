@@ -1,4 +1,4 @@
-let apikey = "AIzaSyB4X6Wt3VoDyk5j3nQwYFm4vjrVqtYcqkM";
+let apikey = ""; // add your own API key
 let searchquery = "";
 let searchcontent = "";
 let youtube_search = "";
