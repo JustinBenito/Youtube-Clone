@@ -1,4 +1,4 @@
-var api_key = "AIzaSyB4X6Wt3VoDyk5j3nQwYFm4vjrVqtYcqkM";
+var api_key = ""; //add your own API key
 let videocontent = "";
 const formatter = Intl.NumberFormat("en", { notation: "compact" });
 
